@@ -1,5 +1,5 @@
 Good Morning
 Good Afternoon
 Good evening
-GM
+GA
 
